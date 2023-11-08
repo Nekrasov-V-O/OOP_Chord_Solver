@@ -1,0 +1,10 @@
+C:\Users\V.A.Nekrasov\source\repos\InteractiveForm_1_ButtonAdders\bin\Debug\InteractiveForm_1_ButtonAdders.exe.config
+C:\Users\V.A.Nekrasov\source\repos\InteractiveForm_1_ButtonAdders\bin\Debug\InteractiveForm_1_ButtonAdders.exe
+C:\Users\V.A.Nekrasov\source\repos\InteractiveForm_1_ButtonAdders\bin\Debug\InteractiveForm_1_ButtonAdders.pdb
+C:\Users\V.A.Nekrasov\source\repos\InteractiveForm_1_ButtonAdders\obj\Debug\InteractiveForm_1_ButtonAdders.csproj.AssemblyReference.cache
+C:\Users\V.A.Nekrasov\source\repos\InteractiveForm_1_ButtonAdders\obj\Debug\InteractiveForm_1_ButtonAdders.Properties.Resources.resources
+C:\Users\V.A.Nekrasov\source\repos\InteractiveForm_1_ButtonAdders\obj\Debug\InteractiveForm_1_ButtonAdders.csproj.GenerateResource.cache
+C:\Users\V.A.Nekrasov\source\repos\InteractiveForm_1_ButtonAdders\obj\Debug\InteractiveForm_1_ButtonAdders.csproj.CoreCompileInputs.cache
+C:\Users\V.A.Nekrasov\source\repos\InteractiveForm_1_ButtonAdders\obj\Debug\InteractiveForm_1_ButtonAdders.exe
+C:\Users\V.A.Nekrasov\source\repos\InteractiveForm_1_ButtonAdders\obj\Debug\InteractiveForm_1_ButtonAdders.pdb
+C:\Users\V.A.Nekrasov\source\repos\InteractiveForm_1_ButtonAdders\obj\Debug\Kursov_Work_Hord_RootFinder.Form1.resources
